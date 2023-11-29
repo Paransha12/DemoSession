@@ -1,0 +1,7 @@
+eclipsehome=C:\Program Files\HCL\HCLOneTest
+plugins=C:\Program Files\HCL\HCLIMShared\plugins
+workspace=D:\Workspaces\HPT\DemoSession\Mod1
+project=Module1
+suite=CMDJPetStore.testsuite
+exportlogmillis=false
+overwrite=false
